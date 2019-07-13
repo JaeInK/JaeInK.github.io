@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Jae In Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/test.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "My name is Jae In Kim"
   location         : "Korea"
   email            :

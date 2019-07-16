@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-14T15:17:46+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jae In Kim’s Blog</title><subtitle>my blog</subtitle><author><name>Jae In Kim</name></author><entry><title type="html">지윤이</title><link href="http://localhost:4000/%EC%A7%80%EC%9C%A4%EC%93%B0/" rel="alternate" type="text/html" title="지윤이" /><published>2019-07-19T00:00:00+09:00</published><updated>2019-07-19T00:00:00+09:00</updated><id>http://localhost:4000/%EC%A7%80%EC%9C%A4%EC%93%B0</id><content type="html" xml:base="http://localhost:4000/%EC%A7%80%EC%9C%A4%EC%93%B0/">&lt;p&gt;바보다.&lt;/p&gt;</content><author><name>Jae In Kim</name></author><summary type="html">바보다.</summary></entry><entry><title type="html">hi</title><link href="http://localhost:4000/hi/" rel="alternate" type="text/html" title="hi" /><published>2019-07-14T00:00:00+09:00</published><updated>2019-07-14T00:00:00+09:00</updated><id>http://localhost:4000/hi</id><content type="html" xml:base="http://localhost:4000/hi/">&lt;p&gt;ihihihihihi~~~~&lt;/p&gt;</content><author><name>Jae In Kim</name></author><summary type="html">ihihihihihi~~~~</summary></entry><entry><title type="html">Machine Learning Project: perceptron</title><link href="http://localhost:4000/perceptron/" rel="alternate" type="text/html" title="Machine Learning Project: perceptron" /><published>2019-01-28T00:00:00+09:00</published><updated>2019-01-28T00:00:00+09:00</updated><id>http://localhost:4000/perceptron</id><content type="html" xml:base="http://localhost:4000/perceptron/">&lt;h1 id=&quot;안녕-지윤이&quot;&gt;안녕 지윤이&lt;/h1&gt;
+
+&lt;h2 id=&quot;내가-아파서-고생-많았지&quot;&gt;내가 아파서 고생 많았지?&lt;/h2&gt;
+
+&lt;h2 id=&quot;미안해-맛있는거-먹자&quot;&gt;미안해 맛있는거 먹자!!!&lt;/h2&gt;
+
+&lt;p&gt;Here’s som basic
+numbere
+&lt;em&gt;italic&lt;/em&gt;
+&lt;strong&gt;bold&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://naver.com&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;here is bulleted list&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;First&lt;/li&gt;
+  &lt;li&gt;second&lt;/li&gt;
+  &lt;li&gt;Third&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;numbered list&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;hi&lt;/li&gt;
+  &lt;li&gt;hi&lt;/li&gt;
+  &lt;li&gt;hi&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Python code block:
+‘'’python
+  import tensorflow
+‘’’&lt;/p&gt;
+
+&lt;p&gt;here is inline code ‘x+y’&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/jiyoon.jpeg&quot; alt=&quot;jiyooon&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is math
+&lt;script type=&quot;math/tex&quot;&gt;z=x+y&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;put it in inline &lt;script type=&quot;math/tex&quot;&gt;z=x+y&lt;/script&gt;&lt;/p&gt;</content><author><name>Jae In Kim</name></author><category term="machine-learning" /><category term="data science" /><category term="neural network" /><summary type="html">안녕 지윤이</summary></entry></feed>

@@ -1,13 +1,12 @@
 ---
 layout: archive
 permalink: /machine-learning/
-title: "Machine Learning Posts"
+title: "Machine Learning Posts by Tag" 
 author_profile: true
 header:
-  image: "images/test.jpeg"
+  image: "/images/test.jpeg"
 ---
 
-{% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
@@ -17,3 +16,4 @@ header:
     {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
+
